@@ -16,7 +16,7 @@ Basically this script can be run on any system. Currently its just a simple pyth
 
 I haven't come across any add-ons for this functionality and it should be pretty easy to port to hassio, if there is interest please let me know, I can work on porting this as an add-on. 
 
-## Installaion
+## Installation
 
 1) Most of the modules used are inbuilt into python3 , but you may need the requests library if not already installed, simply run ```pip3 install requests ```
 
